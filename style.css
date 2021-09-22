@@ -682,3 +682,6 @@ h4 {
   /* transform: scale(1.07, 1.05) skewY(-30deg); */
   background: linear-gradient(30deg, grey, green);
 }
+
+@media (max-width: 760px) {
+}
