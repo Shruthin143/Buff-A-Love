@@ -683,5 +683,5 @@ h4 {
   background: linear-gradient(30deg, grey, green);
 }
 
-@media (max-width: 760px) {
+@media (min-width: 768px) {
 }
